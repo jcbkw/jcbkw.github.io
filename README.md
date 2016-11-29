@@ -1,2 +1,1 @@
-# jcbkw.github.io
-my landing page
+# jcbkw.github.io.
