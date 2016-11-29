@@ -1,7 +1,7 @@
 body {
   font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   color: #555;
-  background-color: #dedede; /*795448*/
+  background-color: #dedede; 
 }
 
 .main, .sidebar, .content {
